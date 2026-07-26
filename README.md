@@ -13,8 +13,3 @@
 - `NotoNastaliqUrdu.ttf`
 
 فونت‌ها محلی هستند و سایت به فایل یا تصویر خارجی وابسته نیست.
-
-## انتشار رایگان
-- **GitHub Pages:** فایل‌ها را در یک مخزن آپلود کنید؛ از Settings → Pages، گزینه Deploy from a branch را فعال کنید.
-- **Netlify Drop:** تمام فایل‌های بالا را داخل یک پوشه گذاشته و آن پوشه را در `app.netlify.com/drop` رها کنید.
-- **Cloudflare Pages:** پوشه‌ی سایت را آپلود کنید یا آن را به GitHub متصل کنید.
